@@ -1,10 +1,10 @@
-# このプログラムでやっていること 
-# - input 
+# このプログラムでやっていること
+# - input
 #   - 卸売データ　train.csv, test.csv
 #   - 天候データ　weather.csv
 # - output
-#   - 加工されたデータ
-#       - 
+#   - 加工データ
+#       -
 
 import pandas as pd
 import numpy as np
